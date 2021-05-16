@@ -1,0 +1,23 @@
+.feature-title {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+    color: grey;
+}
+
+.title {
+    font-size: 36px;
+    /* line-height: 48px; */
+    font-family: "Poppins", sans-serif;
+    /* margin: 0 0 26px; */
+    font-weight: 700;
+}
+
+.black {
+    color: #1c1b1b;;
+}
+
+.blue {
+    color: #1c3988;
+}
