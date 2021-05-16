@@ -1,0 +1,8 @@
+.info > a{
+    text-decoration: none;
+    color: black;
+}
+.info > a:hover{
+    color: black;
+    text-decoration: none;
+}

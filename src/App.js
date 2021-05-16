@@ -11,6 +11,7 @@ import Learn from './components/Learn/Learn';
 import Testimonials from './components/Testimonials/Testimonials';
 import Partners from './components/Partners/Partners';
 import News from './components/News/News';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
       <Testimonials></Testimonials>
       <Partners></Partners>
       <News></News>
+      <Footer></Footer>
     </div>
   );
 }
