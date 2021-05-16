@@ -8,6 +8,9 @@ import Features from './components/Features/Features';
 import Accompliments from './components/Accomplishments/Accompliments';
 import WhyHiCoder from './components/WhyHiCoder/WhyHiCoder';
 import Learn from './components/Learn/Learn';
+import Testimonials from './components/Testimonials/Testimonials';
+import Partners from './components/Partners/Partners';
+import News from './components/News/News';
 
 function App() {
   return (
@@ -20,6 +23,9 @@ function App() {
       <Accompliments></Accompliments>
       <WhyHiCoder></WhyHiCoder>
       <Learn></Learn>
+      <Testimonials></Testimonials>
+      <Partners></Partners>
+      <News></News>
     </div>
   );
 }
